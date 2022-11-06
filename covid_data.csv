@@ -1,0 +1,101 @@
+date,county,state,fips,cases,deaths
+2020-01-21,Snohomish,Washington,53061,1,0
+2020-01-22,Snohomish,Washington,53061,1,0
+2020-01-23,Snohomish,Washington,53061,1,0
+2020-01-24,Cook,Illinois,17031,1,0
+2020-01-24,Snohomish,Washington,53061,1,0
+2020-01-25,Orange,California,06059,1,0
+2020-01-25,Cook,Illinois,17031,1,0
+2020-01-25,Snohomish,Washington,53061,1,0
+2020-01-26,Maricopa,Arizona,04013,1,0
+2020-01-26,Los Angeles,California,06037,1,0
+2020-01-26,Orange,California,06059,1,0
+2020-01-26,Cook,Illinois,17031,1,0
+2020-01-26,Snohomish,Washington,53061,1,0
+2020-01-27,Maricopa,Arizona,04013,1,0
+2020-01-27,Los Angeles,California,06037,1,0
+2020-01-27,Orange,California,06059,1,0
+2020-01-27,Cook,Illinois,17031,1,0
+2020-01-27,Snohomish,Washington,53061,1,0
+2020-01-28,Maricopa,Arizona,04013,1,0
+2020-01-28,Los Angeles,California,06037,1,0
+2020-01-28,Orange,California,06059,1,0
+2020-01-28,Cook,Illinois,17031,1,0
+2020-01-28,Snohomish,Washington,53061,1,0
+2020-01-29,Maricopa,Arizona,04013,1,0
+2020-01-29,Los Angeles,California,06037,1,0
+2020-01-29,Orange,California,06059,1,0
+2020-01-29,Cook,Illinois,17031,1,0
+2020-01-29,Snohomish,Washington,53061,1,0
+2020-01-30,Maricopa,Arizona,04013,1,0
+2020-01-30,Los Angeles,California,06037,1,0
+2020-01-30,Orange,California,06059,1,0
+2020-01-30,Cook,Illinois,17031,2,0
+2020-01-30,Snohomish,Washington,53061,1,0
+2020-01-31,Maricopa,Arizona,04013,1,0
+2020-01-31,Los Angeles,California,06037,1,0
+2020-01-31,Orange,California,06059,1,0
+2020-01-31,Santa Clara,California,06085,1,0
+2020-01-31,Cook,Illinois,17031,2,0
+2020-01-31,Snohomish,Washington,53061,1,0
+2020-02-01,Maricopa,Arizona,04013,1,0
+2020-02-01,Los Angeles,California,06037,1,0
+2020-02-01,Orange,California,06059,1,0
+2020-02-01,Santa Clara,California,06085,1,0
+2020-02-01,Cook,Illinois,17031,2,0
+2020-02-01,Suffolk,Massachusetts,25025,1,0
+2020-02-01,Snohomish,Washington,53061,7,0
+2020-02-02,Maricopa,Arizona,04013,1,0
+2020-02-02,Los Angeles,California,06037,1,0
+2020-02-02,Orange,California,06059,1,0
+2020-02-02,San Francisco,California,06075,2,0
+2020-02-02,Santa Clara,California,06085,2,0
+2020-02-02,Cook,Illinois,17031,2,0
+2020-02-02,Suffolk,Massachusetts,25025,1,0
+2020-02-02,Snohomish,Washington,53061,6,0
+2020-02-03,Maricopa,Arizona,04013,1,0
+2020-02-03,Los Angeles,California,06037,1,0
+2020-02-03,Orange,California,06059,1,0
+2020-02-03,San Francisco,California,06075,2,0
+2020-02-03,Santa Clara,California,06085,2,0
+2020-02-03,Cook,Illinois,17031,2,0
+2020-02-03,Suffolk,Massachusetts,25025,1,0
+2020-02-03,Snohomish,Washington,53061,1,0
+2020-02-04,Maricopa,Arizona,04013,1,0
+2020-02-04,Los Angeles,California,06037,1,0
+2020-02-04,Orange,California,06059,1,0
+2020-02-04,San Francisco,California,06075,2,0
+2020-02-04,Santa Clara,California,06085,2,0
+2020-02-04,Cook,Illinois,17031,2,0
+2020-02-04,Suffolk,Massachusetts,25025,1,0
+2020-02-04,Snohomish,Washington,53061,1,0
+2020-02-05,Maricopa,Arizona,04013,1,0
+2020-02-05,Los Angeles,California,06037,1,0
+2020-02-05,Orange,California,06059,1,0
+2020-02-05,San Francisco,California,06075,2,0
+2020-02-05,Santa Clara,California,06085,2,0
+2020-02-05,Cook,Illinois,17031,2,0
+2020-02-05,Suffolk,Massachusetts,25025,1,0
+2020-02-05,Snohomish,Washington,53061,1,0
+2020-02-05,Dane,Wisconsin,55025,1,0
+2020-02-06,Maricopa,Arizona,04013,1,0
+2020-02-06,Los Angeles,California,06037,1,0
+2020-02-06,Orange,California,06059,1,0
+2020-02-06,San Francisco,California,06075,2,0
+2020-02-06,Santa Clara,California,06085,2,0
+2020-02-06,Cook,Illinois,17031,2,0
+2020-02-06,Suffolk,Massachusetts,25025,5,0
+2020-02-06,Snohomish,Washington,53061,1,0
+2020-02-06,Dane,Wisconsin,55025,1,0
+2020-02-07,Maricopa,Arizona,04013,1,0
+2020-02-07,Los Angeles,California,06037,1,0
+2020-02-07,Orange,California,06059,1,0
+2020-02-07,San Francisco,California,06075,2,0
+2020-02-07,Santa Clara,California,06085,2,0
+2020-02-07,Cook,Illinois,17031,2,0
+2020-02-07,Suffolk,Massachusetts,25025,1,0
+2020-02-07,Snohomish,Washington,53061,1,0
+2020-02-07,Dane,Wisconsin,55025,1,0
+2020-02-08,Maricopa,Arizona,04013,1,0
+2020-02-08,Los Angeles,California,06037,1,0
+2020-02-08,Orange,California,06059,4,0
